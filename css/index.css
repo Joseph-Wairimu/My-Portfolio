@@ -24,6 +24,7 @@
 
     color: #000;
     background-color: #c4c4c4c4;
+    margin:  0 480px;
 
 
 }
@@ -41,7 +42,8 @@ h3{
     background-color: #c4c4c4c4;
     padding: 0 15px;
     width: 200px;
-    height: 230px;
+    height: 230px; 
+    margin-top: 70px;
     }
     .butt{ 
         border-radius: 25px;
@@ -68,10 +70,11 @@ h3{
     height: 230px;
     background-color: #c4c4c4c4;
     padding: 0 15px;
+    margin-top: 70px;
 
 }
-h1{color: #000;
+.edit{color: #000;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 25px;
     line-height: 56px;
 }
