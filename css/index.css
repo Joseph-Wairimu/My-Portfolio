@@ -1,4 +1,13 @@
-.rounded{
-    border-radius: 1000px;
+.container{
+    background-color: #342628;
+}
+.image{
+    border-radius: 50%;
     height: 300px;
+    width: 250px;
+}
+.flex{display: flex}
+.first-section{
+    background-color: #c4c4c4c4;
+    border-radius: 0px 0px 366px 0px;
 }
