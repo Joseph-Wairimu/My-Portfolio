@@ -31,10 +31,27 @@
     align-items: center;
 }
 p{color: #000;}
-h2{
+h3{
     color: #000;
 }
 .one{
     box-shadow: 1px 1px 1px 1px #000;
+    width: 200px;
     background-color: #c4c4c4c4;
+    padding: 0 15px;
+    }
+    .butt{border-radius: 25px;
+    background-color: #342628;}
+.two{
+    box-shadow: 1px 1px 1px 1px #000;
+    width: 300px;
+    background-color: #c4c4c4c4;
+    padding: 0 15px;
+}
+.three{
+    box-shadow: 1px 1px 1px 1px #000;
+    width: 200px;
+    background-color: #c4c4c4c4;
+    padding: 0 15px;
+
 }
