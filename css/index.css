@@ -25,5 +25,16 @@
     color: #000;
     background-color: #c4c4c4c4;
 
-    
+
+}
+.section-two{
+    align-items: center;
+}
+p{color: #000;}
+h2{
+    color: #000;
+}
+.one{
+    box-shadow: 1px 1px 1px 1px #000;
+    background-color: #c4c4c4c4;
 }
