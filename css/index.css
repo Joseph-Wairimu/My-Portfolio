@@ -4,10 +4,19 @@
 .image{
     border-radius: 50%;
     height: 300px;
-    width: 250px;
+    width: 280px; 
+    margin-right: 100px;
 }
-.flex{display: flex}
+.flex
+{display: flex;
+    margin:0 35px ;
+    
+     
+}
 .first-section{
     background-color: #c4c4c4c4;
     border-radius: 0px 0px 366px 0px;
+}
+.move{
+    margin: 0 35px;
 }
