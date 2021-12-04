@@ -47,6 +47,7 @@ h3{
     width: 200px;
     height: 230px; 
     margin-top: 70px;
+    margin: 70px 15px;
     }
     .butt{ 
         border-radius: 25px;
@@ -74,6 +75,7 @@ h3{
     background-color: #c4c4c4c4;
     padding: 0 15px;
     margin-top: 70px;
+    margin: 70px 15px;
 
 }
 .edit{color: #000;
@@ -102,3 +104,4 @@ li>p{color: #000;}
     height: 30px;
     background-color: #c4c4c4c4;
 }
+a{color: #000;}
