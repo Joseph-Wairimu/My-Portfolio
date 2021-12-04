@@ -88,11 +88,17 @@ h3{
 }
 .section-three{
     background-color: #c4c4c4c4;
-    height: 400px;
+    height: 550px;
 }
-.col-4>p{
+#bold{
     color: #000;
     font-weight: bold;
     font-size: 20px;
 
+}
+li{color: #000;}
+li>p{color: #000;}
+.copyright{
+    height: 30px;
+    background-color: #c4c4c4c4;
 }
