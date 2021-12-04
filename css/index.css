@@ -100,7 +100,7 @@ h3 {
 }
 .section-three {
   background-color: #c4c4c4c4;
-  height: 550px;
+  height: fit-content;
 }
 #bold {
   color: #000;
@@ -119,4 +119,10 @@ li > p {
 }
 a {
   color: #000;
+}
+row{
+    height:fit-content;
+}
+.copyright{
+    text-align: center;
 }
