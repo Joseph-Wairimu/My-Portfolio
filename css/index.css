@@ -1,4 +1,7 @@
-.container{
+/* .container{
+    background-color: #342628;
+} */
+.all{
     background-color: #342628;
 }
 .image{
@@ -77,4 +80,13 @@ h3{
     font-weight: bold;
     font-size: 25px;
     line-height: 56px;
+}
+.align{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+.section-three{
+    background-color: #c4c4c4c4;
+    height: 400px;
 }
