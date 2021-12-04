@@ -16,6 +16,9 @@
     
      
 }
+.flex>p{
+    font-size: 30px;
+}
 .first-section{
     background-color: #c4c4c4c4;
     border-radius: 0px 0px 366px 0px;
