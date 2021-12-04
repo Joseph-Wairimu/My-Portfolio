@@ -742,9 +742,7 @@ progress {
 .col-4 {
   flex: 0 0 auto;
   width: 33.33333333%;
-  color: #000;
-  font-weight: bold;
-  font-size: 20px;
+ 
   border: solid #342628;
 margin: 15px 95px;
 /* text-align: end; */
