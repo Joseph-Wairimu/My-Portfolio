@@ -14,6 +14,7 @@ I used figma to design the page layout.
 https://www.figma.com/file/1EIuKtvc4Jan4N2MFaZFLJ/Untitled?node-id=0%3A1
 
 <img src="assets/figma.png" alt="figma design">
+
 ### Product Management
 
 Planning and development is iterative because I am constantly coding and improving my portfolio as I learn new skills allowing me to make new changes.
@@ -22,7 +23,8 @@ Planning and development is iterative because I am constantly coding and improvi
 
  .HTML
  .CSS
- 
+ <img src="assets/p1.png" alt="site">
+ <img src="assets/p2.png" alt="site">
 
 #### Support and contact details
 
